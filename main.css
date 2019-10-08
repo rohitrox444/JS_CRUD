@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: #123455; 
+}
+
+h4{
+	color: #f3e5f5;
+}
+
+h2{
+	color: #f3e5f5;
+}
+.heading{
+	color: #fff;
+	background: #00695c;
+	text-transform: uppercase;
+	padding: 20px;
+	font-family: cursive;
+	font-size: 25px;
+	letter-spacing: 1px;
+	margin-bottom: 50px;
+}
+
+.btn, .form-control{
+	border-radius: 0px;
+	width: 100%;
+}
